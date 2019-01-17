@@ -19,9 +19,9 @@ Loading network.....
 Network successfully loaded
 dog-cycle-car.png    predicted in  2.456 seconds
 Objects Detected:    bicycle truck dog
-----------------------------------------------------------
+/----------------------------------------------------------
 SUMMARY
-----------------------------------------------------------
+/----------------------------------------------------------
 Task                     : Time Taken (in seconds)
 
 Reading addresses        : 0.002
@@ -30,4 +30,4 @@ Detection (1 images)     : 2.457
 Output Processing        : 0.002
 Drawing Boxes            : 0.076
 Average time_per_img     : 2.657
-----------------------------------------------------------
+/----------------------------------------------------------
